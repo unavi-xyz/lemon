@@ -14,7 +14,7 @@ edition = "2021"
 lemon-graph = { path = "crates/lemon-graph", version = "0.0.1" }
 petgraph = { version = "0.6.4", default-features = false }
 thiserror = "1.0.58"
-tokio = { version = "1.36.0", features = ["full"] }
+tokio = { version = "1.37.0", features = ["full"] }
 tracing = "0.1.40"
 tracing-test = "0.2.4"
 
