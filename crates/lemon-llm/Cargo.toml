@@ -22,7 +22,7 @@ async-recursion = { version = "1.1.0", optional = true }
 futures-util = { version = "0.3.30", optional = true }
 reqwest = { version = "0.11.26", optional = true }
 serde = { version = "1.0.197", optional = true }
-serde_json = { version = "1.0.114", optional = true }
+serde_json = { version = "1.0.115", optional = true }
 
 replicate-rust = { version = "0.0.5", optional = true }
 
